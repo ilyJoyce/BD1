@@ -24,6 +24,8 @@ Der Motor Controller wird über einen T-Connector mit einer LiPo Batterie verbun
 - Spannung: 11,1V
 - Größe: 800mAh
 
+Jede herkömmliche Powerbank mit Nenndaten von 5V und etwa 300 - 500mA kann den Raspberry Pi 3 B mit ausreichend Strom versorgen
+
 ### Steuerung
 
 bei Nutzung eines Xbox Series S/X Controllers über Bluetooth (dieser muss manuell **einmalig** über bluetoothctl direkt über den Pi verbunden werden) funktioniert die Steuerung wie gewünscht:  
@@ -36,7 +38,7 @@ bei Nutzung eines Xbox Series S/X Controllers über Bluetooth (dieser muss manue
 - Allgemeine Steuerungseinheit: Rasperry Pi3
 - Motorsteuerung: L298N Motorcontroller modul
 - Lidarsensor: TF Luna LiDar "single Point Lidar von Youyeeto
-- Motoren: 4x DC-Getriebemotoren mit jeweils einem Reifen "4pcs DC3V-12V DC Gear Motoren for 4-wheel drive Toy Car" von Amazin(Gebildet)
+- Motoren: 4x DC-Getriebemotoren mit jeweils einem Reifen "4pcs DC3V-12V DC Gear Motoren for 4-wheel drive Toy Car" von Amazon(Gebildet)
 - Batterie(Lastkreis): LiPo 11,1V (3S) auf Amazon
 - Batterie(logikkreis): jegliche herkömmliche Powerbanks funktionieren solange sie in das Gehäuse passt
 - Verkabelung: Jumper wire cables(10cm) von amazon

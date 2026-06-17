@@ -24,6 +24,8 @@ Der Motor Controller wird über einen T-Connector mit einer LiPo Batterie verbun
 - Spannung: 11,1V
 - Größe: 800mAh
 
+![LiPo daten](images/lipo.png "LiPo Daten (rechnerisch)")
+
 Jede herkömmliche Powerbank mit Nenndaten von 5V und etwa 300 - 500mA kann den Raspberry Pi 3 B mit ausreichend Strom versorgen
 
 ### Steuerung
